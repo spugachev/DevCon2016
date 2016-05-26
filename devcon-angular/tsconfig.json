@@ -12,7 +12,7 @@
   "exclude": [
     "node_modules",
     "wwwroot/node_modules",
-    "wwwroot/typings/main",
-    "wwwroot/typings/main.d.ts"
+    "wwwroot/typings/global",
+    "wwwroot/typings/index.d.ts"
   ]
 }
